@@ -20,7 +20,8 @@ Visibility control (publish/unpublish)
 Tweet creation and publishing
 Viewing user tweets
 Updating and deleting tweets
-#Subscription Management:
+
+# Subscription Management:
 Subscribing to channels
 Viewing subscriber and subscribed channel lists
 
